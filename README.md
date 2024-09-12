@@ -24,7 +24,7 @@ A user friendly app to easily see colleges and the cut-off marks required to ent
    - See all tables in the database, update their contents, add and delete entries.
      
 ## Pictures
-
+![Home Page](/clg.png)
 
 ## Tech Stack 
 - Frontend : Tkinter library in python
