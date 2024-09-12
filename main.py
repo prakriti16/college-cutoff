@@ -1,5 +1,5 @@
 #College cutoff
-#Prerequisites: right click and download the 5 csv files from drive (make sure they are in the same location in your computer as this python program.)
+#Prerequisites: download the 5 csv files and make sure they are in the same location in your computer as this python program.
 import csv
 import tkinter
 from tkinter import messagebox
