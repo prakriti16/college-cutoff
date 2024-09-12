@@ -28,7 +28,8 @@ A user friendly app to easily see colleges and the cut-off marks required to ent
 - Backend : MySQL
      
 ## Pictures
-![Home Page](/clg (1).png)
+
+![Home Page]("/clg (1).png")
 ![Home Page](/clg (2).png)
 ![Home Page](/clg (3).png)
 ![Home Page](/clg (4).png)
